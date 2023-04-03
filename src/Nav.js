@@ -13,7 +13,7 @@ export default function Nav({setData}) {
 
     }
 
-    
+   console.log("hi hello") 
 const  handleclick=(e)=>{
         e.preventDefault()
        setTimeout(()=>{ apicall()},3000)
